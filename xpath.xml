@@ -1,0 +1,6 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="highlightStartTagOnly" value="false" />
+    <option name="bHighlightStartTagOnly" value="false" />
+  </component>
+</application>
