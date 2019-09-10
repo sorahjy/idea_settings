@@ -1,0 +1,8 @@
+<templateSet group="Zen HTML">
+  <template name="fset" value="&lt;fieldset&gt;$END$&lt;/fieldset&gt;" description="&lt;fieldset&gt;...&lt;/fieldset&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
