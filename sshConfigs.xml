@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="123.206.214.219" id="5e269b12-7042-4e1b-8375-0cc4284e0e72" keyPath="$USER_HOME$/.ssh/sorahjy_github_rsa" port="22" customName="sora" nameFormat="CUSTOM">
+        <option name="customName" value="sora" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
